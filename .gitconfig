@@ -1,0 +1,9 @@
+[user]
+	name = PinkPhayate
+	email = pinqphayate@gmail.com
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	rt = reset
+	fe = fetch
